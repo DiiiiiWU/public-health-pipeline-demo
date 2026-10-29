@@ -157,9 +157,3 @@ These are **three teaching perspectives synthesized from different literatures**
 - Kahn, M. G., et al. (2016). *A harmonized data quality assessment terminology and framework for the secondary use of electronic health record data*. eGEMs. https://doi.org/10.13063/2327-9214.1244
 - Mölder, F., et al. (2021). *Sustainable data analysis with Snakemake*. Nature Methods. https://doi.org/10.1038/s41592-021-01254-9
 - Snakemake documentation: https://snakemake.readthedocs.io/
-
-## 9. Share with classmates
-
-Upload the files to a **public GitHub repository** (without the `output/` folder), then copy the repository URL. Make a QR code linking to that URL and add it to the last presentation slide. You can also post the URL in your course site. **Do not upload patient data, personal paths, secrets, or real hospital records.**
-
-Suggested slide caption: **“Try the pipeline: scan to view the code and three mini-challenges.”**
