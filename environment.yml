@@ -1,0 +1,7 @@
+name: public-health-pipeline-demo
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  - snakemake>=8,<10

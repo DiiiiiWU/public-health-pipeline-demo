@@ -1,0 +1,5 @@
+hospital,test_id,result
+A,101,Positive
+A,102,Negative
+B,103,Unknown
+B,103,Positive
